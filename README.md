@@ -32,6 +32,7 @@ headings and subheadings breakdown content into sections allowing reader to quic
 
 
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
-
+a Readme should include an introduction to the project, steps or instructions on how to use and install it. The instructions must be be clearly outlined and easy to follow.
 
 ## 12. How can you succinctly convey the purpose and key features of a product?
+Introduce the pain point of a customer and clearly outline how the product solves the pain point
