@@ -30,8 +30,7 @@ screenshots, show the software, diagrams show the process flow of the system and
 headings and subheadings breakdown content into sections allowing reader to quickly scan the document and focus on where its important for them.
 
 ## 10. What are some best practices for creating effective headings and subheadings?
-Keep the  subheadings short and descriptive, break them up into shorter sentences. use consistent headings for example heading structure and if you highlight one, highlight all,
-
+Keep the  subheadings short and descriptive, break them up into shorter sentences. use consistent headings for example heading structure and if you highlight one, highlight all.
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
 a Readme should include an introduction to the project, steps or instructions on how to use and install it. The instructions must be be clearly outlined and easy to follow.
 
